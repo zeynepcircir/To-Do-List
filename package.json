@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^15.1.6",
+    "@angular/cli": "^15.1.6"
+  }
+}
